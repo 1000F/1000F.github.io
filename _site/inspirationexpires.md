@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inspiration Expires v1"
-site: https://1000f.github.io/nspirationexpires
+site: https://1000f.github.io/nspirationexpires.md
 ---
 
 # Welcome
