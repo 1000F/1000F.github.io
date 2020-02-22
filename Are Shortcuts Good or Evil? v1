@@ -1,0 +1,87 @@
+Are Shortcuts Good or Evil? v1
+
+Essential Mac Modifications 20.02.21v1
+
+I don't know why but I've always believed that any shortcut or modification that could save you some time was a net positive. This belief has led me to discover hundreds of shortcuts and niche software.
+
+Recently I saw a TechLead YouTube video that presented a different school of thought. TechLead explains that a top engineer should be able to take any hardware/software out of the box and immediately be effective.
+
+Hearing this new school of thought rattled me a bit and I have since landed somewhere in-between the two beliefs. While I still believe that a few key programs can add a ton of value (Alfred, KM) there should be a high bar for adding new systems or rules to your personal flow. Why? For the love of the game. If I need to work on a loaner laptop or a team members setup, I know I will be slower but I want to at least recognize why I am slightly slower.
+
+With this in mind I decided to document the modifications I was making on my new macbook. Steps below with notes in Red.
+
+Installation Steps (imagine doing this in your spare time, I have a family):
+
+1.  WiFi
+
+2.  Sign in with Apple ID
+
+3.  Sign in with Google Account
+
+4.  REALIZATION: Most of my data / work is stored in accounts, passwords, files, etc. Even my browsing history was (obviously in retrospect) transferred over
+
+5.  System Preferences
+
+1.  "Trackpad"
+
+1.  "Point & Click"
+
+1.  Enable "Tap to select"
+
+2.  Slide "Click" to "light" and "Tracking Speed" to "Fast"
+
+3.  "Accessibility"
+
+1.  "Pointer Control"
+
+1.  Slide "Double-click speed" to "Fast" (this is the only one where I'm not quite sure of the impact)
+
+2.  "Trackpad Options..."
+
+1.  Slide "Scrolling speed" to "Fast"
+
+2.  Select "Enable dragging" and choose "three finger drag"
+
+4.  "Mouse Options..."
+
+1.  Slide "Scrolling speed" to "Fast"
+
+5.  "Apple ID"
+
+1.  Select "iCloud Drive" (all Apple ID options should now be selected)
+
+1.  This will also transfer over all Finder Preferences:
+
+1.  Tags: Deselect any that are selected
+
+2.  Sidebar: Deselect recent tags, select Adam's Macbook Pro
+
+3.  Advanced: Select "Show all filename extensions"
+
+7.  "Dock"
+
+1.  Select "Automatically hide and show the Dock"
+
+7.  Screen Shots
+
+1.  Command + shift + 5 > Options > Save to "Other locations..." > Create "Mac Screenshots" folder in iCloud and select
+
+9.  Trim dock
+
+1.  Remove: Launchpad, Mail, FaceTime, Messages, Music, Podcasts, TV, Numbers, Keynote
+
+11. Window Management
+
+1.  Install Magnet and set the following shortcuts:
+
+1.  ![](https://lh6.googleusercontent.com/0e11h6fA0xwXgj3SGp0SugvJsos5gpcMhL3sz7lUca1cQxCAdABqkgY21vmGUjIyjs0tiqh24VwJc5MoczjJivvj3er0c5rxE1MZ5IRNwngLQpNyFffRY5Qri4wHpTePT7_QU1O5)
+
+2.  NOTE: Do NOT indulge yourself in the Magnet vs. Spectacle debate. 
+
+1.  After just killing too many brain cells on this I loosely prefer Magnet because 1. it feels a bit more polished and 2. Has a better logo. However, I strongly believe that this is not a debate worth having at all, choose one and move on. The entire open source vs. app store capitalists debate does not hinge on your actions here. I desperately hope my future self does not waste another 30 minutes angrily reading ProductHunt and App Store comments.
+
+Non-essential modifications (this will have to wait for tomorrow)
+
+-   Alfred, workflows and snippets sync via Dropbox
+
+Conclusion: so much of the customization is handled by GOOG/AAPL that additional modifications can be consolidated among a few services.
